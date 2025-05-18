@@ -1,13 +1,83 @@
 
-# 💻 Pile technologique:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 Statistiques :
-![](https://github-readme-stats.vercel.app/api?username=MaitreAntho&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaitreAntho&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaitreAntho&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 Trophées
-![](https://github-profile-trophy.vercel.app/?username=MaitreAntho&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Salut, moi c'est MaitreAntho 👋</h1>
+<p align="center">
+  🚀 Développeur fullstack passionné par les bots, le backend, le web et l'automatisation.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaitreAntho&icon=9&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 À propos de moi
+
+Je suis **MaitreAntho**, un développeur autodidacte et curieux, toujours à la recherche de nouveaux défis techniques.  
+J’ai commencé en créant des **bots Discord**, puis j’ai élargi mes compétences au **web**, au **backend**, et à la **data**.
+
+🔧 J’adore transformer des idées en projets concrets, qu’il s’agisse de scripts malins, d’apps web dynamiques ou d’automatisations poussées.  
+💬 Je code avec passion et j'apprends en continu pour repousser mes propres limites.
+
+---
+
+## 🧠 Ce que je maîtrise / explore
+
+- 🖥️ Développement fullstack avec **JavaScript**, **TypeScript**, **PHP**, **EJS**, **Next.js**
+- 🧩 Conception de bots & scripts avec **Node.js**, **Discord.js**, **Python**
+- 🗄️ Gestion de bases de données : **PostgreSQL**, **MySQL**, **MongoDB**
+- ☁️ Expérimentations avec **Google APIs**, **Firebase**, **OAuth2**, **Cloud Functions**
+- 🎨 Templating dynamique avec **EJS**, **React** et front-end léger
+- 🐳 Conteneurisation avec **Docker** (en apprentissage)
+
+---
+
+## 🚀 Technologies & Outils
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-333333?style=for-the-badge&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+## 📚 En ce moment j’apprends...
+
+- 🔐 Meilleures pratiques de sécurité backend/API
+- 🧱 Architecture clean & scalable (MVC, services, middlewares)
+- 🐳 Docker & automatisation du déploiement
+- ⚙️ Approfondissement de **Next.js** & **TypeScript**
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaitreAntho&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreAntho&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitreAntho&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaitreAntho&theme=gruvbox&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🤝 Me contacter
+
+Tu veux discuter code, projet ou juste échanger des idées ? Je suis toujours partant.
+
+📫 **Email** : antho@aycxt.dev  
+💬 **Discord** : `aycxt.`  
