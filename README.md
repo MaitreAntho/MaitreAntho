@@ -19,7 +19,7 @@ J’ai commencé en créant des **bots Discord**, puis j’ai élargi mes compé
 ## 🧠 Ce que je maîtrise / explore
 
 - 🖥️ Développement fullstack avec **JavaScript**, **TypeScript**, **PHP**, **EJS**, **Next.js**
-- 🧩 Conception de bots & scripts avec **Node.js**, **Discord.js**, **Python**
+- 🧩 Conception de bots & scripts avec **Node.js**, **Discord.js**, **Python**, **TypeScript**
 - 🗄️ Gestion de bases de données : **PostgreSQL**, **MySQL**, **MongoDB**
 - ☁️ Expérimentations avec **Google APIs**, **Firebase**, **OAuth2**, **Cloud Functions**
 - 🎨 Templating dynamique avec **EJS**, **React** et front-end léger
