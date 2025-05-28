@@ -80,4 +80,3 @@ J’ai commencé en créant des **bots Discord**, puis j’ai élargi mes compé
 Tu veux discuter code, projet ou juste échanger des idées ? Je suis toujours partant.
 
 📫 **Email** : antho@aycxt.dev  
-💬 **Discord** : `aycxt.`  
