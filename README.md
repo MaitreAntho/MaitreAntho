@@ -4,7 +4,15 @@
   🚀 Développeur fullstack passionné par les bots, le backend, le web et l'automatisation.
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaitreAntho&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Compteur de vues du profil" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaitreAntho?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/MaitreAntho?label=Suivre&style=social" alt="Suivre sur GitHub" />
+  </a>
+</p>
 
 ## 👨‍💻 À propos de moi
 
