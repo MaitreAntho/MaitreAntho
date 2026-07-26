@@ -85,7 +85,7 @@ Mise en place et administration complète de l'infrastructure d'une communauté 
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaitreAntho&theme=gruvbox&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=MaitreAntho&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
