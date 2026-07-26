@@ -78,7 +78,7 @@ Mise en place et administration complète de l'infrastructure d'une communauté 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaitreAntho&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreAntho&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=MaitreAntho&theme=tokyonight&hide_border=true" height="165" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitreAntho&theme=tokyonight&layout=compact&hide_border=true" />
