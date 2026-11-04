@@ -49,6 +49,8 @@ I contribute to [**Pelican**](https://github.com/pelican-dev), the open-source g
 
 ---
 
+| Plugin | [FiveM Toolkit](https://github.com/MaitreAntho/pelican-fivem-toolkit) FiveM & RedM tools for Pelican Panel | 🚀 Released |
+
 ### 🚀 Other project: MarseilleRP infrastructure
 
 Full setup and administration of the infrastructure of a **FiveM** roleplay community:
