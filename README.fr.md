@@ -43,10 +43,11 @@ Je contribue à [**Pelican**](https://github.com/pelican-dev), le panel open sou
 
 | Projet | Contribution | Statut |
 | --- | --- | --- |
-| Panel | [#2726](https://github.com/pelican-dev/panel/pull/2726) Boutons copier et télécharger pour la console du serveur | ✅ Fusionnée |
-| Panel | [#2725](https://github.com/pelican-dev/panel/pull/2725) Bouton pour relancer les envois de fichiers échoués | ✅ Fusionnée |
-| Wings | [#236](https://github.com/pelican-dev/wings/pull/236) Masquer les mots de passe et tokens dans les logs d'installation | 🔍 En revue |
-| Plugin | [FiveM Toolkit](https://github.com/MaitreAntho/pelican-fivem-toolkit) Outils FiveM & RedM pour Pelican Panel | 🚀 Publié |
+| Panel | [#2726](https://github.com/pelican/panel/pull/2726) Boutons copier et télécharger pour la console du serveur | ✅ Fusionnée |
+| Panel | [#2725](https://github.com/pelican/panel/pull/2725) Bouton pour relancer les envois de fichiers échoués | ✅ Fusionnée |
+| Wings | [#236](https://github.com/pelican/wings/pull/236) Masquer les mots de passe et tokens dans les logs d'installation | 🔍 En revue |
+| Plugin | [FiveM Toolkit](https://hub.pelican.dev/plugins/fivem-toolkit) Outils FiveM & RedM pour Pelican Panel | 🚀 Publié |
+| Plugin | [Resource Advisor](https://hub.pelican.dev/plugins/resource-advisor) Conseils mémoire, disque et CPU pour chaque serveur, appliqués en un clic | 🚀 Publié |
 
 ---
 
