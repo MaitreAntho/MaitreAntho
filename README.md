@@ -43,10 +43,11 @@ I contribute to [**Pelican**](https://github.com/pelican-dev), the open-source g
 
 | Project | Contribution | Status |
 | --- | --- | --- |
-| Panel | [#2726](https://github.com/pelican-dev/panel/pull/2726) Copy and download buttons for the server console | ✅ Merged |
-| Panel | [#2725](https://github.com/pelican-dev/panel/pull/2725) Retry button for failed file uploads | ✅ Merged |
-| Wings | [#236](https://github.com/pelican-dev/wings/pull/236) Hide passwords and tokens in installation logs | 🔍 In review |
-| Plugin | [FiveM Toolkit](https://github.com/MaitreAntho/pelican-fivem-toolkit) FiveM & RedM tools for Pelican Panel | 🚀 Released |
+| Panel | [#2726](https://github.com/pelican/panel/pull/2726) Copy and download buttons for the server console | ✅ Merged |
+| Panel | [#2725](https://github.com/pelican/panel/pull/2725) Retry button for failed file uploads | ✅ Merged |
+| Wings | [#236](https://github.com/pelican/wings/pull/236) Hide passwords and tokens in installation logs | 🔍 In review |
+| Plugin | [FiveM Toolkit](https://hub.pelican.dev/plugins/fivem-toolkit) FiveM & RedM tools for Pelican Panel | 🚀 Released |
+| Plugin | [Resource Advisor](https://hub.pelican.dev/plugins/resource-advisor) Memory, disk and CPU advice for every server, applied in one click | 🚀 Released |
 
 ---
 
